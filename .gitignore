@@ -1,3 +1,4 @@
-./python_clone
 job_portal.db
-./__pycache__
+__pycache__/
+*.pyc
+./python_clone
